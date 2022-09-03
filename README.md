@@ -94,7 +94,7 @@ Revisão sobre a linguagem Java
     * Em diagonal 
   * Utilizar arranjos e matrizes como parâmetros de métodos 
   * Utilizar arranjos e matrizes como retorno de métodos 
-* [Tratamento de Exceções
+* [Tratamento de Exceções](10.md)
   * Definição
   * Exceções comuns
     * Divisão por zero
