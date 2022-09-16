@@ -289,3 +289,4 @@ Bloch, Joshua. Java Efetivo: 3a edição. Alta Books Editora, 2019.
 Martin, Robert C. Código limpo: habilidades práticas do Agile software. Alta Books, 2019.
 
 Fowler, Martin. UML Essencial: um breve guia para linguagem padrão. Bookman editora, 2014.
+
