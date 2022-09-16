@@ -140,10 +140,10 @@ Revisão sobre a linguagem Java
      * Default/Pacote  
   * Pacote default
     * Importar uma classe em um pacote default 
-* [Escopo de classe e objeto] (14.md)
+* [Escopo de classe e objeto](14.md)
   * Definição 
   * Palavra reservada static 
-* [Herança] (15.md)
+* [Herança](15.md)
   * Definição
      * Representação de herança na UML
   * Criação de uma classe que realiza herança 
@@ -155,14 +155,14 @@ Revisão sobre a linguagem Java
   * Palavra reservada super 
      * Encadeamento de construtor 
      * Encadeamento de método
-* [Interface] (16.md)
+* [Interface](16.md)
   * Definição
      * Representação de interface na UML
   * Criação de uma classe que implementa uma interface
   * Sobreescrita de métodos
   * Polimorfismo
     * Conversão de tipos 
-* [Classe abstrada] (17.md)
+* [Classe abstrada](17.md)
   * Definição
      * Representação de classe abstrata na UML
   * Criação de uma classe que extende uma classe abstrata
